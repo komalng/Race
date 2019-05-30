@@ -1,4 +1,4 @@
-import java.util.Objects;
+package logic;
 
 public class Runner {
     public String name;

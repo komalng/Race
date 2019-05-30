@@ -1,3 +1,5 @@
+package logic;
+
 public class Test {
     public static void main(String[] args) {
         Runner runner = new Runner("komal",120);
